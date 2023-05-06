@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=576277&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d7192b&size=40&center=true&vCenter=true&width=1300&lines=HELLO%2C+I+AM+MOGIN%3B+I%27M+17+YEARS+OLD%3B+I+FROM+BRASIL%3B+I+AM+A+DEVELOPER+AND+DESIGNER%3B+Enjoy%21+%3A%29&font=minecraft)](https://git.io/typing-svg)
+
+
+### STATS:
 -----------------------------------------------------------------------------------------------------------
 
 <div align="center">  
@@ -16,7 +19,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Moginbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
-### SKILLS:
+### SKILLS / TOOLS:
 -----------------------------------------------------------------------------------------------------------
 <p align="center">
   <img src="https://skills.thijs.gg/icons?i=html,css,java,js,py,react,tailwind,nodejs,mysql,git,figma&theme=dark" alt="My Skills">
