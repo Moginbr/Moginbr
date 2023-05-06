@@ -1,16 +1,14 @@
-### Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=576277&height=120&section=header"/>
 
-<!--
-**Moginbr/Moginbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=d7192b&size=40&center=true&vCenter=true&width=1300&lines=HELLO%2C+I+AM+MOGIN%3B+I%27M+17+YEARS+OLD%3B+I+FROM+BRASIL%2C+RN%3B+I+AM+A+DEVELOPER+AND+DESIGNER%3B+Enjoy%21+%3A%29&font=minecraft)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Moginbr&show_icons=true&count_private=true&hide_border=true&title_color=d7192b&icon_color=d7192b&text_color=7fa6bc&bg_color=0d1117" alt="Moginbr github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moginbr&layout=compact&hide_border=true&title_color=d7192b&text_color=7fa6bc&bg_color=0d1117" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moginbr&theme=redical)
+
+
+
+
