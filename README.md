@@ -11,10 +11,6 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moginbr&layout=compact&hide_border=true&title_color=d7192b&text_color=7fa6bc&bg_color=0d1117" />
 </div>
 
------------------------------------------------------------------------------------------------------------
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Moginbr&theme=redical)
------------------------------------------------------------------------------------------------------------
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Moginbr&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
