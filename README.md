@@ -1,7 +1,7 @@
 <!-- CABEÇALHO COM TÍTULO E ANIMAÇÃO -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Eu+sou+o+SEU_NOME!;Seja+bem-vindo(a)!;Desenvolvedor+Full+Stack&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Olá!+Meu+nome+é+Mogin!;Seja+bem-vindo(a)!;Desenvolvedor+Full+Stack&center=true&size=30">
   </a>
 </h1>
 
@@ -15,7 +15,7 @@
 
 ### 🙋‍♂️ Sobre Mim
 
-Olá! Sou o Davi. Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções eficientes e inovadoras. Minha jornada é movida pela curiosidade e pelo desejo constante de aprender e compartilhar conhecimento. Adoro transformar ideias em código e resolver problemas complexos.
+Sou um desenvolvedor apaixonado por tecnologia, com foco em criar soluções eficientes e inovadoras. Minha jornada é movida pela curiosidade e pelo desejo constante de aprender e compartilhar conhecimento. Adoro transformar ideias em código e resolver problemas complexos.
 
 - ⚡ Fun fact: Café é o que não falta.
 
